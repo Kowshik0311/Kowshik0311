@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **B.Tech Computer Science (AI & ML)** — GITAM University, Bangalore (2022–2026) · CGPA: 7.55
+- 🎓 **B.Tech Computer Science (AI & ML)** — GITAM University, Bangalore (2022–2026) · CGPA: 7.52
 - 💼 **Data Analyst Intern** @ Bluestock Fintech (Cohort 2025)
 - 🛠 Previously **Frontend Developer Intern** @ Unified Mentor — built 3 production React.js + Firebase apps
 - 📊 Built end-to-end data pipelines, SQLite star schema databases & a published Tableau dashboard
